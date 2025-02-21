@@ -1,0 +1,5 @@
+/dist
+/build/*
+.idea
+/meross_ha.egg-info/*
+test/
